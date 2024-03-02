@@ -1,0 +1,5 @@
+﻿interface ITransportationReimbursementEntitlement
+    {
+        decimal CalculateTransportationReimbursement();
+
+    }
